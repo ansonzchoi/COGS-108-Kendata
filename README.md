@@ -1,4 +1,4 @@
-# README: Analysis of Demographic Variables and Kendo Participation
+# Analysis of Demographic Variables and Kendo Participation
 
 ## Project Overview
 
